@@ -1,0 +1,6 @@
+{
+  "name": "Estoque Certo",
+  "description": "Sistema intuitivo de gestão de estoque para pequenos comerciantes, com cadastro, alertas de estoque baixo, movimentações, relatórios e requisições internas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
